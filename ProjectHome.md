@@ -1,0 +1,1 @@
+RehabMan version of ACPIBacklight.kext.  See changelog for details, but in general a bit more Mac like provided proper DSDT methods.
